@@ -1,6 +1,6 @@
 # rollup-plugin-ts-paths
 
-Replace typescript paths with relative paths for rollup
+Replace alias with resolved import from paths in tsconfig.json
 
 
 ## Installation
