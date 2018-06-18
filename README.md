@@ -10,13 +10,13 @@ where foo is defined in `tsconfig.json`
 
 ```json
 {
-    "compilerOptions": {
-        "paths": {
-          "foo": [
-            "src/path/to/foo/foot.ts"
-          ]
-        }
-    }
+  "compilerOptions": {
+      "paths": {
+        "foo": [
+          "src/path/to/foo/foot.ts"
+        ]
+      }
+  }
 }
 
 
