@@ -9,11 +9,7 @@ export default function rollupPluginTsPaths(options: Options = {}): Plugin {
 	return {
 		name: 'rollup-plugin-ts-paths',
 		resolveId(importee: string) {
-			if (paths[importee]) {
-				return importee;
-			}
-
-			return importee;
+			return paths[importee];
 		}
 	};
 }
