@@ -1,0 +1,5 @@
+.gitignore
+.git/
+src/
+tsconfig.json
+rollup.config.js

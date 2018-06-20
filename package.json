@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-ts-paths",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/rollup-plugin-ts-paths.cjs.js",
   "module": "dist/rollup-plugin-ts-paths.es.js",
