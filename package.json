@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-ts-paths",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/rollup-plugin-ts-paths.cjs.js",
   "module": "dist/rollup-plugin-ts-paths.es.js",
@@ -27,11 +27,11 @@
   "devDependencies": {
     "@types/strip-bom": "^3.0.0",
     "@types/strip-json-comments": "0.0.30",
-    "rollup": "^0.60.7",
-    "rollup-plugin-commonjs": "^9.1.3",
-    "rollup-plugin-node-resolve": "^3.3.0",
-    "rollup-plugin-typescript2": "^0.15.0",
-    "typescript": "^2.9.2"
+    "rollup": "^0.67.4",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-node-resolve": "^4.0.0",
+    "rollup-plugin-typescript2": "^0.18.0",
+    "typescript": "^3.2.2"
   },
   "dependencies": {
     "strip-bom": "^3.0.0",

@@ -3,3 +3,4 @@
 src/
 tsconfig.json
 rollup.config.js
+.rpt2_cache/
